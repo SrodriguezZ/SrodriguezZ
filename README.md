@@ -6,4 +6,5 @@ formación complementaria en seguridad electrónica, certificación
 ricoh, programación desde cero, además de conocimientos en
 lenguaje de programación Python, Java, PostgreSQL con framework
 Visual Code, Pycharm y conocimiento básico de desarrollo web.
-https://www.channelpartner.es/wp-content/uploads/2021/09/10085_21.jpg.webp
+
+![images](https://github.com/SrodriguezZ/SrodriguezZ/assets/117190423/c7ec737e-08d2-460b-ae54-cc5359108304)
