@@ -1,7 +1,8 @@
 Soy un profesional con más de 3 años de experiencia en resoluciones de fallas técnicas, enfocado a la reparación de equipos electrónicos dando así mantenimiento preventivo y correctivo, soporte de redes, configuración y actualización de firmware.
 Actualmente cursando una carrera de Ing Software, con conocimientos en lenguajes de programación Python con framework Django, Java y manejo de base de datos con PostgreSQL y MySQL, mis IDE: Vscode, Pycharm, Apache y NetBeans con manejo de Git..
 -------------------------------------------------------------------
-![211168153-061a83aa-e2f9-45eb-bb4c-0db1679f0bc0](https://github.com/SrodriguezZ/SrodriguezZ/assets/117190423/4d571677-19df-4c57-a417-5a1ad794ba76)
-![211168102-fb84a548-1019-4fb4-8ed4-d89a9b8fb4e4](https://github.com/SrodriguezZ/SrodriguezZ/assets/117190423/ba819586-9b94-42e5-8543-c4028a887d3c)
-![211168160-75e46858-9a95-474d-aedf-4fc6460815f9](https://github.com/SrodriguezZ/SrodriguezZ/assets/117190423/949eb086-0e27-427f-bf3f-fb930640a59d)
+![java_original_wordmark_logo_icon_146459](https://github.com/SrodriguezZ/SrodriguezZ/assets/117190423/03d1331f-91ee-4eae-be79-b65b879b0baf)
+![python_vertical_logo_icon_168039](https://github.com/SrodriguezZ/SrodriguezZ/assets/117190423/35907f4b-2160-4cc6-99b2-37f91a70bfc5)
+![folder_postgres_icon_161286](https://github.com/SrodriguezZ/SrodriguezZ/assets/117190423/cdd1f337-e856-4c50-ac0b-b3c44326eaf1)
 ![mysql_original_wordmark_logo_icon_146417 (1)](https://github.com/SrodriguezZ/SrodriguezZ/assets/117190423/b57bf79f-2d85-4093-bb35-0b1d0ddca68f)
+![git_original_wordmark_logo_icon_146510](https://github.com/SrodriguezZ/SrodriguezZ/assets/117190423/1281a179-14ac-4a99-8893-ea8f910a0619)
