@@ -1,5 +1,12 @@
-Soy un profesional con más de 3 años de experiencia en resoluciones de fallas técnicas, enfocado a la reparación de equipos electrónicos dando así mantenimiento preventivo y correctivo, soporte de redes, configuración y actualización de firmware.
-Actualmente cursando una carrera de Ing Software, con conocimientos en lenguajes de programación Python con framework Django, Java y manejo de base de datos con PostgreSQL y MySQL, mis IDE: Vscode, Pycharm, Apache y NetBeans con manejo de Git..
+Soy un profesional con más de tres años de experiencia en la resolución
+de fallos técnicos. Actualmente, me encuentro cursando una carrera de
+Ingeniería en Software con enfoque en programación Java y
+Framework Spring Boot, así como JPA/Hibernate, con el objetivo de
+destacarme como Desarrollador Java Backend. Además, cuento con
+experiencia en el uso de Angular como herramienta de Frontend.
+Mis conocimientos también abarcan Python, PostgreSQL, MySQL y
+GitHub. Estoy familiarizado con IDEs como Vscode, PyCharm, Apache
+y NetBeans.
 -------------------------------------------------------------------
 ![java_original_wordmark_logo_icon_146459](https://github.com/SrodriguezZ/SrodriguezZ/assets/117190423/03d1331f-91ee-4eae-be79-b65b879b0baf)
 ![python_vertical_logo_icon_168039](https://github.com/SrodriguezZ/SrodriguezZ/assets/117190423/35907f4b-2160-4cc6-99b2-37f91a70bfc5)
