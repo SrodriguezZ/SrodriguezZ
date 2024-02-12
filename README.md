@@ -14,7 +14,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steeven-rodr%C3%ADguez-zhunio/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](srodriguezzhunio@gmail.com)
+
   
 </div>
 <hr>
