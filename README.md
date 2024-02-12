@@ -6,7 +6,7 @@
 - :trophy: Actualemnte buscando para colaborar en proyecto de back-end y front-end
 - :warning: Me encanta desafiarme a mí mismo y aprender algo nuevo cada día.
 
-- ⚡ Lo que me gusta hacer: Me gusta leer, deporte, moto.... y por supuesto programar
+- ⚡ Lo que me gusta hacer: Me gusta leer, deporte, moto.... y por supuesto programar..!!
 
 <hr>
 
