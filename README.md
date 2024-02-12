@@ -2,7 +2,7 @@
 <h3 align="center">Un apasionado de Java y Front-End </h3>
 
 - 🔭 Actualemente estoy trabajando en proyecto personales..!!
-- 🌱 Aprendiendo nuevas tecnologias...!!
+- 🌱 Aprendiendo nuevas tecnologías...!!
 
 - :trophy: Actualemnte buscando para colaborar en proyecto de back-end y front-end
 
