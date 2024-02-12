@@ -1,16 +1,16 @@
 <h1 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  Steeven Rodríguez :computer:</h1>
 <h3 align="center">Un apasionado de Java y Front-End </h3>
 
-- 🔭 Actualemente estoy trabajando en proyecto personales..!!
-- 🌱 Aprendiendo nuevas tecnologías...!!
-
+- 🚀 Desarrollador apasionado por crear soluciones innovadoras en Java. 
+- 📚 En constante aprendizaje, siempre busco oportunidades para mejorar mis habilidades y explorar nuevas tecnologías. Mi objetivo es contribuir al mundo del desarrollo de software y colaborar en proyectos desafiantes tanto en el frontend como en el backend.
 - :trophy: Actualemnte buscando para colaborar en proyecto de back-end y front-end
+- :warning: Me encanta desafiarme a mí mismo y aprender algo nuevo cada día.
 
 - ⚡ Lo que me gusta hacer: Me gusta leer, deporte, moto.... y por supuesto programar
 
 <hr>
 
-<h3 align="center">Contacte conmigo:</h3>
+<h3 align="center">📫 Contacte conmigo:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steeven-rodr%C3%ADguez-zhunio/)
@@ -51,5 +51,6 @@
 </p>
 <p align= "center">
   <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+  ¡Gracias por visitar mi perfil! 😊
 </p>
 
