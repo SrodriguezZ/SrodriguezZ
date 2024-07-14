@@ -28,7 +28,7 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="html5" width="70" height="40"/> 
   </a>
    <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="[https://www.vectorlogo.zone/logos/springio/springio-ar21.svg](https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg)" alt="html5" width="70" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="html5" width="70" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="javascript" width="40" height="40"/> 
