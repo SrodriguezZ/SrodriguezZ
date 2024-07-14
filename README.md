@@ -27,6 +27,9 @@
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="html5" width="70" height="40"/> 
   </a>
+   <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="[https://www.vectorlogo.zone/logos/springio/springio-ar21.svg](https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg)" alt="html5" width="70" height="40"/> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -37,7 +40,10 @@
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="linux" width="40" height="40"/> 
   </a> 
    <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="html5" width="70" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="html5" width="70" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="html5" width="70" height="40"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
